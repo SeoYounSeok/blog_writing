@@ -1,6 +1,6 @@
 package seo;
 
-public class HouseSeo {
+public class Defualt {
     String lastName = "Seo";
 }
 

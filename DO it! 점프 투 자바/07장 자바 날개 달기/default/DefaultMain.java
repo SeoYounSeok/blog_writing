@@ -2,11 +2,11 @@
 
 package seo;
 
-public class HouseYoun {
+public class DefaultMain {
     String lastName = "Youn";
 
     public static void main(String[] args) {
-        HouseSeo seo = new HouseSeo();
+        Default seo = new Default();
         System.out.println(seo.lastName);
     }
 
